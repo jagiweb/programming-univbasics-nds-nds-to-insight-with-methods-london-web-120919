@@ -29,5 +29,5 @@ def gross_for_director(director_data)
   pp director_data
   total = 0
   i = 0
-  while i < director_data
+  while i < director_data.length
 end
